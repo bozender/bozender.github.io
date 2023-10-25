@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "9d5bea22d5e8b741",
+    "type": "split",
+    "children": [
+      {
+        "id": "321ddb682be96ec9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60852655ae1ca3f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NAOR/Main Lore Abstract Telling/Chapter 1 - NARYA the Nine Eye Goddess a.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6effc75553633fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ac156b5dfb70a63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9da4d81625923ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7429de990337372a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84842475a2e77fad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a62dea1087428554",
+    "type": "split",
+    "children": [
+      {
+        "id": "23564d6e2bed12ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b6255b1973f3e16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "073997e1fe128fdd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04fba3722c64a099",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84237cb5f13cea20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "24628665ae44fd80",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "c9da4d81625923ee",
+  "lastOpenFiles": [
+    "Release/Chapter 1 - NARYA the Nine Eye Goddess.html",
+    "NAOR/Main Lore Abstract Telling/Chapter 1 - NARYA the Nine Eye Goddess a.md",
+    "Untitled.md",
+    "NAOR/The Meaning of Narya Eyes.md",
+    "NAOR/First Nine Aspects.md",
+    "NAOR/Main Lore Abstract Telling/Chapter 8 - White Triplet in Darkness.md"
+  ]
+}
